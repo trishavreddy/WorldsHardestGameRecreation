@@ -2,8 +2,6 @@
 
 A Java recreation of levels 1 and 10 from the 'World's Hardest Game' (CoolMathGames). Includes gameplay mechanics such as player movement, collision detection, and fail counters. Built with Java Swing and AWT for rendering graphics and handling events. 
 
-Coded as part of my AP Computer Science A class in 10th grade.
-
 ## Features
 - **Level Design:** Replicates layouts and challenges from levels 1 and 10.
 - **Graphics:** 2D rendering with Java Swing and AWT.
@@ -19,3 +17,6 @@ Coded as part of my AP Computer Science A class in 10th grade.
 - Collision detection
 - Multi-threading for game loop and animations
 - 2D graphics rendering
+
+## About
+Coded as part of my final project for my AP Computer Science A class in 10th grade.
